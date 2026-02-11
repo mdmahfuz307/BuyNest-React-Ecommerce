@@ -1,0 +1,403 @@
+[
+    {
+        "id":1,
+       "title":"Adicolor Classics Joggers",
+       "category": "Clothing & Shoes",
+       "price": 63.85,
+        "image":"/images/products/image1.png",
+        "status": "Best Selers"
+    },
+    {
+        "id":2,
+       "title":"Nike Sportswear Futura Luxe",
+       "category": "Clothing & Shoes",
+       "price": 130.00,
+       "image":"/images/products/image2.png",
+       "status": "Best Selers"
+    },
+    {
+        "id":3,
+       "title":"Geometric print Scarf",
+       "category": "Jewelry & Accessories",
+       "price": 53.00,
+       "image":"/images/products/image3.png",
+       "status": "Best Selers"
+    },
+    {
+        "id":4,
+       "title":"Yellow Reserved Hoodie",
+       "category": "Clothing & Shoes",
+       "price": 63.85,
+       "image":"/images/products/image4.png",
+       "status": "New Arriaval"
+    },
+    {
+        "id":5,
+       "title":"Basic Dress Green",
+       "category": "Clothing & Shoes",
+       "price": 236.00,
+       "image":"/images/products/image5.png",
+       "status": "New Arriaval"
+    },
+    {
+        "id":6,
+       "title":"Nike Air Zoom Pegasus",
+       "category": "Clothing & Shoes",
+       "price": 198.00,
+       "image":"/images/products/image6.png",
+       "status": "Best Selers"
+    },
+    {
+        "id":7,
+       "title":"Nike Repel Miler",
+       "category": "Clothing & Shoes",
+       "price": 120.50,
+       "image":"/images/products/image7.png",
+       "status": "Best Selers"
+    },
+    {
+        "id":8,
+       "title":"Gold Diamond Ring",
+       "category": "Jewelry & Accessories",
+       "price": 160.00,
+       "image":"/images/products/image8.png",
+       "status": "Best Selers"
+    },
+{
+  "id": 9,
+  "title": "Silver Pendant Necklace",
+  "category": "Jewelry & Accessories",
+  "price": 85.50,
+  "image": "https://picsum.photos/id/65/600/600",
+  "status": "New Arriaval"
+},
+{
+  "id": 10,
+  "title": "Pearl Stud Earrings",
+  "category": "Jewelry & Accessories",
+  "price": 120.00,
+  "image": "https://picsum.photos/id/66/600/600",
+  "status": "Best Selers"
+},
+{
+  "id": 11,
+  "title": "Leather Bracelet",
+  "category": "Jewelry & Accessories",
+  "price": 45.99,
+  "image": "https://picsum.photos/id/67/600/600",
+  "status": "New Arriaval"
+},
+{
+  "id": 12,
+  "title": "Vintage Watch Gold",
+  "category": "Jewelry & Accessories",
+  "price": 185.00,
+  "image": "https://picsum.photos/id/1062/600/600",
+  "status": "Best Selers"
+},
+{
+  "id": 13,
+  "title": "Designer Sunglasses",
+  "category": "Jewelry & Accessories",
+  "price": 95.00,
+  "image": "https://picsum.photos/id/1011/600/600",
+  "status": "Best Selers"
+},
+{
+  "id": 14,
+  "title": "Cozy Throw Blanket",
+  "category": "Home & Living",
+  "price": 49.99,
+  "image": "https://picsum.photos/id/1084/600/600",
+  "status": "New Arriaval"
+},
+{
+  "id": 15,
+  "title": "Ceramic Vase Set",
+  "category": "Home & Living",
+  "price": 75.00,
+  "image": "https://picsum.photos/id/1080/600/600",
+  "status": "Best Selers"
+},
+{
+  "id": 16,
+  "title": "Decorative Pillow",
+  "category": "Home & Living",
+  "price": 35.50,
+  "image": "https://picsum.photos/id/1060/600/600",
+  "status": "New Arriaval"
+},
+{
+  "id": 17,
+  "title": "Modern Wall Clock",
+  "category": "Home & Living",
+  "price": 55.00,
+  "image": "https://picsum.photos/id/175/600/600",
+  "status": "Best Selers"
+},
+{
+  "id": 18,
+  "title": "Wooden Frame Mirror",
+  "category": "Home & Living",
+  "price": 89.99,
+  "image": "https://picsum.photos/id/1067/600/600",
+  "status": "Best Selers"
+},
+{
+  "id": 19,
+  "title": "Table Lamp LED",
+  "category": "Home & Living",
+  "price": 65.00,
+  "image": "https://picsum.photos/id/83/600/600",
+  "status": "New Arriaval"
+},
+{
+  "id": 20,
+  "title": "Organic Cotton Rug",
+  "category": "Home & Living",
+  "price": 120.00,
+  "image": "https://picsum.photos/id/1076/600/600",
+  "status": "Best Selers"
+},
+
+    {
+  "id": 21,
+  "title": "White Dress Shoes",
+  "category": "Clothing & Shoes",
+  "price": 78.00,
+  "image": "https://picsum.photos/id/21/600/600",
+  "status": "Best Selers"
+},
+{
+  "id": 22,
+  "title": "Black Formal Blazer",
+  "category": "Clothing & Shoes",
+  "price": 145.00,
+  "image": "https://picsum.photos/id/1005/600/600",
+  "status": "New Arriaval"
+},
+{
+  "id": 23,
+  "title": "Casual Sneakers",
+  "category": "Clothing & Shoes",
+  "price": 89.99,
+  "image": "https://picsum.photos/id/29/600/600",
+  "status": "Best Selers"
+},
+{
+  "id": 24,
+  "title": "Wedding Dress White",
+  "category": "Wedding & Party",
+  "price": 450.00,
+  "image": "https://picsum.photos/id/1011/600/600",
+  "status": "Best Selers"
+},
+{
+  "id": 25,
+  "title": "Bridesmaid Dress Blush",
+  "category": "Wedding & Party",
+  "price": 120.00,
+  "image": "https://picsum.photos/id/1012/600/600",
+  "status": "New Arriaval"
+},
+{
+  "id": 26,
+  "title": "Formal Party Shoes",
+  "category": "Wedding & Party",
+  "price": 95.00,
+  "image": "https://picsum.photos/id/103/600/600",
+  "status": "Best Selers"
+},
+{
+  "id": 27,
+  "title": "Decorative Centerpiece",
+  "category": "Wedding & Party",
+  "price": 65.00,
+  "image": "https://picsum.photos/id/1080/600/600",
+  "status": "New Arriaval"
+},
+{
+  "id": 28,
+  "title": "Party Banner Decoration",
+  "category": "Wedding & Party",
+  "price": 25.50,
+  "image": "https://picsum.photos/id/1043/600/600",
+  "status": "Best Selers"
+},
+{
+  "id": 29,
+  "title": "Elegant Table Runner",
+  "category": "Wedding & Party",
+  "price": 45.00,
+  "image": "https://picsum.photos/id/1060/600/600",
+  "status": "New Arriaval"
+},
+{
+  "id": 30,
+  "title": "Wedding Invitation Set",
+  "category": "Wedding & Party",
+  "price": 75.00,
+  "image": "https://picsum.photos/id/1066/600/600",
+  "status": "Best Selers"
+},
+{
+  "id": 31,
+  "title": "Action Figure Superhero",
+  "category": "Toys & Entertainment",
+  "price": 24.99,
+  "image": "https://picsum.photos/id/433/600/600",
+  "status": "New Arriaval"
+},
+{
+  "id": 32,
+  "title": "Board Game Classic",
+  "category": "Toys & Entertainment",
+  "price": 35.00,
+  "image": "https://picsum.photos/id/292/600/600",
+  "status": "Best Selers"
+},
+{
+  "id": 33,
+  "title": "Building Block Set",
+  "category": "Toys & Entertainment",
+  "price": 45.99,
+  "image": "https://picsum.photos/id/366/600/600",
+  "status": "Best Selers"
+},
+{
+  "id": 34,
+  "title": "Puzzle 1000 Piece",
+  "category": "Toys & Entertainment",
+  "price": 18.50,
+  "image": "https://picsum.photos/id/356/600/600",
+  "status": "New Arriaval"
+},
+{
+  "id": 35,
+  "title": "Remote Control Car",
+  "category": "Toys & Entertainment",
+  "price": 55.00,
+  "image": "https://picsum.photos/id/1074/600/600",
+  "status": "Best Selers"
+},
+{
+  "id": 36,
+  "title": "Outdoor Skateboard",
+  "category": "Toys & Entertainment",
+  "price": 65.00,
+  "image": "https://picsum.photos/id/1082/600/600",
+  "status": "New Arriaval"
+},
+{
+  "id": 37,
+  "title": "Classic Yo-Yo Spinner",
+  "category": "Toys & Entertainment",
+  "price": 12.99,
+  "image": "https://picsum.photos/id/160/600/600",
+  "status": "Best Selers"
+},
+{
+  "id": 38,
+  "title": "Hand-Painted Canvas Art",
+  "category": "Art & Collectibles",
+  "price": 150.00,
+  "image": "https://picsum.photos/id/1025/600/600",
+  "status": "Best Selers"
+},
+{
+  "id": 39,
+  "title": "Vintage Vinyl Record",
+  "category": "Art & Collectibles",
+  "price": 35.00,
+  "image": "https://picsum.photos/id/39/600/600",
+  "status": "New Arriaval"
+},
+{
+  "id": 40,
+  "title": "Limited Edition Print",
+  "category": "Art & Collectibles",
+  "price": 85.50,
+  "image": "https://picsum.photos/id/1050/600/600",
+  "status": "Best Selers"
+},
+{
+  "id": 41,
+  "title": "Bronze Sculpture",
+  "category": "Art & Collectibles",
+  "price": 225.00,
+  "image": "https://picsum.photos/id/1056/600/600",
+  "status": "Best Selers"
+},
+{
+  "id": 42,
+  "title": "Collectible Figurine",
+  "category": "Art & Collectibles",
+  "price": 95.00,
+  "image": "https://picsum.photos/id/433/600/600",
+  "status": "New Arriaval"
+},
+{
+  "id": 43,
+  "title": "Abstract Wall Tapestry",
+  "category": "Art & Collectibles",
+  "price": 65.00,
+  "image": "https://picsum.photos/id/1042/600/600",
+  "status": "Best Selers"
+},
+{
+  "id": 44,
+  "title": "Wooden Craft Box",
+  "category": "Craft Supplies & Tools",
+  "price": 32.99,
+  "image": "https://picsum.photos/id/1067/600/600",
+  "status": "New Arriaval"
+},
+{
+  "id": 45,
+  "title": "Professional Paint Set",
+  "category": "Craft Supplies & Tools",
+  "price": 55.50,
+  "image": "https://picsum.photos/id/1020/600/600",
+  "status": "Best Selers"
+},
+{
+  "id": 46,
+  "title": "Knitting Needle Set",
+  "category": "Craft Supplies & Tools",
+  "price": 28.00,
+  "image": "https://picsum.photos/id/292/600/600",
+  "status": "New Arriaval"
+},
+{
+  "id": 47,
+  "title": "Calligraphy Art Set",
+  "category": "Craft Supplies & Tools",
+  "price": 42.00,
+  "image": "https://picsum.photos/id/1069/600/600",
+  "status": "Best Selers"
+},
+{
+  "id": 48,
+  "title": "Leather Tool Belt",
+  "category": "Craft Supplies & Tools",
+  "price": 68.99,
+  "image": "https://picsum.photos/id/1070/600/600",
+  "status": "Best Selers"
+},
+{
+  "id": 49,
+  "title": "Scrapbooking Supply Kit",
+  "category": "Craft Supplies & Tools",
+  "price": 49.99,
+  "image": "https://picsum.photos/id/1081/600/600",
+  "status": "New Arriaval"
+},
+{
+  "id": 50,
+  "title": "Embroidery Thread Collection",
+  "category": "Craft Supplies & Tools",
+  "price": 35.50,
+  "image": "https://picsum.photos/id/1071/600/600",
+  "status": "Best Selers"
+}
+]
